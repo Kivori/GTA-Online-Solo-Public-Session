@@ -7,7 +7,7 @@
 This application can be used to create a public session in Grand Theft Auto Online in which you are the only member, a Solo Public Session. These types of sessions are incredibly useful for selling goods without being blown up by a broomstick griefer or Christmas tree'd into oblivion by your friendly neighborhood modder. Follow these steps to use the application:
 
 1. Read the disclaimer
-2. [Download the application](https://github.com/Kivori/GTA-Online-Solo-Public-Session/raw/master/GTA%20Online%20Solo%20Public%20Session.exe)
+2. Download the latest version of the application from the [Releases page](https://github.com/Kivori/GTA-Online-Solo-Public-Session/releases/)
 3. Run the application
 4. Check the box verifying that you have read and understood the disclaimer
 5. Click the big button
