@@ -1,6 +1,8 @@
 # GTA-Online-Solo-Public-Session
 
-<img src="https://github.com/Kivori/GTA-Online-Solo-Public-Session/raw/master/img/GTA%20Online%20Solo%20Public%20Session%20600x600.png" alt="Application Logo" align="center" width="200px"/>
+<p align="center">
+  <img src="https://github.com/Kivori/GTA-Online-Solo-Public-Session/raw/master/img/GTA%20Online%20Solo%20Public%20Session%20600x600.png" alt="Application Logo" width="200px" height="200px"/>
+</p>
 
 ![Application Logo](https://github.com/Kivori/GTA-Online-Solo-Public-Session/raw/master/img/GTA%20Online%20Solo%20Public%20Session%20600x600.png)
 
