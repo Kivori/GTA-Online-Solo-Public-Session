@@ -16,7 +16,7 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of this Disclaimer:
 
-*   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Cookies Policy) refers to GTA Online Solo Public Session.
+*   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Cookies Policy) refers to Kivori.
 
 *   **You** means the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
