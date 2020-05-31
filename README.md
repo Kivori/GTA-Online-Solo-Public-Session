@@ -9,10 +9,6 @@ This application can be used to create a public session in Grand Theft Auto Onli
 5. Click the big button
 6. Enjoy peaceful serenity
 
-
-
-
-
 # Disclaimer
 
 Last updated: May 31, 2020
